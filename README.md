@@ -1,4 +1,4 @@
-# SEProject
+# EventEase
 
 Demo: https://youtu.be/6KnC0JF73d8
 
